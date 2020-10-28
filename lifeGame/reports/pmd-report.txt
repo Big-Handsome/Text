@@ -1,0 +1,400 @@
+src/lifeGame/Cell.java:1:	PackageCase: Package name contains upper case characters
+src/lifeGame/Cell.java:1:	PackageCase: Package name contains upper case characters
+src/lifeGame/Cell.java:3:	CommentRequired: Class comments are required
+src/lifeGame/Cell.java:3:	CommentRequired: Class comments are required
+src/lifeGame/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/lifeGame/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/lifeGame/Cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/Cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/Cell.java:4:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:4:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/Cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/Cell.java:5:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:5:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:6:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:6:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:7:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:7:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/Cell.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/Cell.java:8:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:8:	CommentRequired: Field comments are required
+src/lifeGame/Cell.java:8:	RedundantFieldInitializer: Avoid using redundant field initializer for 'isBring'
+src/lifeGame/Cell.java:8:	RedundantFieldInitializer: Avoid using redundant field initializer for 'isBring'
+src/lifeGame/Cell.java:8:	UnusedAssignment: The field initializer for 'isBring' is never used (overwritten on line 14)
+src/lifeGame/Cell.java:8:	UnusedAssignment: The field initializer for 'isBring' is never used (overwritten on line 14)
+src/lifeGame/Cell.java:10:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:10:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/lifeGame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/lifeGame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/lifeGame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/lifeGame/Cell.java:23:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/lifeGame/Cell.java:23:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/lifeGame/Cell.java:23:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/lifeGame/Cell.java:23:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/lifeGame/Cell.java:23:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Cell.java:23:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifeGame/Cell.java:28:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/lifeGame/Cell.java:28:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/lifeGame/Cell.java:31:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/lifeGame/Cell.java:31:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/lifeGame/Cell.java:41:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:41:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:42:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:42:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:43:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:43:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:48:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:48:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:51:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:51:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:58:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:58:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'64').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'64').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'67').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'67').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'70').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '59'-'70').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '59'-'76').
+src/lifeGame/Cell.java:59:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '59'-'76').
+src/lifeGame/Cell.java:60:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:60:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:61:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:61:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:62:	MissingBreakInSwitch: A switch statement does not contain a break
+src/lifeGame/Cell.java:62:	MissingBreakInSwitch: A switch statement does not contain a break
+src/lifeGame/Cell.java:64:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '64'-'76').
+src/lifeGame/Cell.java:64:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '64'-'76').
+src/lifeGame/Cell.java:67:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '67'-'76').
+src/lifeGame/Cell.java:67:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '67'-'76').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'64').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'64').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'67').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'67').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'70').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '70'-'70').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '70'-'76').
+src/lifeGame/Cell.java:70:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '70'-'76').
+src/lifeGame/Cell.java:72:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:72:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:73:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:73:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:77:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:77:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/Cell.java:77:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/lifeGame/Cell.java:77:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/lifeGame/Cell.java:83:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifeGame/Cell.java:83:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '83'-'88').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '83'-'88').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '83'-'91').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '83'-'91').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '83'-'94').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '83'-'94').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '83'-'101').
+src/lifeGame/Cell.java:83:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '83'-'101').
+src/lifeGame/Cell.java:84:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:84:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:85:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:85:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:86:	MissingBreakInSwitch: A switch statement does not contain a break
+src/lifeGame/Cell.java:86:	MissingBreakInSwitch: A switch statement does not contain a break
+src/lifeGame/Cell.java:88:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '88'-'83').
+src/lifeGame/Cell.java:88:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '88'-'83').
+src/lifeGame/Cell.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '88'-'101').
+src/lifeGame/Cell.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '88'-'101').
+src/lifeGame/Cell.java:91:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '91'-'83').
+src/lifeGame/Cell.java:91:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '91'-'83').
+src/lifeGame/Cell.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '91'-'101').
+src/lifeGame/Cell.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '91'-'101').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '94'-'88').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '94'-'88').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '94'-'91').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '94'-'91').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '94'-'94').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '94'-'94').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '94'-'101').
+src/lifeGame/Cell.java:94:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '94'-'101').
+src/lifeGame/Cell.java:96:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:96:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:97:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:97:	ControlStatementBraces: This statement should have braces
+src/lifeGame/Cell.java:105:	MethodArgumentCouldBeFinal: Parameter 'i1' is not assigned and could be declared final
+src/lifeGame/Cell.java:105:	MethodArgumentCouldBeFinal: Parameter 'i1' is not assigned and could be declared final
+src/lifeGame/Cell.java:105:	MethodArgumentCouldBeFinal: Parameter 'j1' is not assigned and could be declared final
+src/lifeGame/Cell.java:105:	MethodArgumentCouldBeFinal: Parameter 'j1' is not assigned and could be declared final
+src/lifeGame/Cell.java:105:	ShortVariable: Avoid variables with short names like i1
+src/lifeGame/Cell.java:105:	ShortVariable: Avoid variables with short names like i1
+src/lifeGame/Cell.java:105:	ShortVariable: Avoid variables with short names like j1
+src/lifeGame/Cell.java:105:	ShortVariable: Avoid variables with short names like j1
+src/lifeGame/CellTest.java:1:	PackageCase: Package name contains upper case characters
+src/lifeGame/CellTest.java:1:	PackageCase: Package name contains upper case characters
+src/lifeGame/CellTest.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/lifeGame/CellTest.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/lifeGame/CellTest.java:7:	CommentRequired: Class comments are required
+src/lifeGame/CellTest.java:7:	CommentRequired: Class comments are required
+src/lifeGame/CellTest.java:8:	CommentRequired: Field comments are required
+src/lifeGame/CellTest.java:8:	CommentRequired: Field comments are required
+src/lifeGame/CellTest.java:11:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:11:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:16:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:16:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:16:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:16:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:19:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifeGame/CellTest.java:19:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifeGame/CellTest.java:19:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/lifeGame/CellTest.java:19:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/lifeGame/CellTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:21:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:21:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:23:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/lifeGame/CellTest.java:23:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/lifeGame/CellTest.java:29:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:29:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:29:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:29:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:30:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/lifeGame/CellTest.java:30:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/lifeGame/CellTest.java:30:	ShortVariable: Avoid variables with short names like a
+src/lifeGame/CellTest.java:30:	ShortVariable: Avoid variables with short names like a
+src/lifeGame/CellTest.java:35:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:35:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:38:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/lifeGame/CellTest.java:38:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/lifeGame/CellTest.java:38:	ShortVariable: Avoid variables with short names like b
+src/lifeGame/CellTest.java:38:	ShortVariable: Avoid variables with short names like b
+src/lifeGame/CellTest.java:43:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:43:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:50:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:50:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:50:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:50:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifeGame/CellTest.java:51:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/lifeGame/CellTest.java:51:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/lifeGame/CellTest.java:52:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/lifeGame/CellTest.java:52:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/lifeGame/CellTest.java:52:	ShortVariable: Avoid variables with short names like a
+src/lifeGame/CellTest.java:52:	ShortVariable: Avoid variables with short names like a
+src/lifeGame/CellTest.java:56:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:56:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:59:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cell2' (lines '59'-'67').
+src/lifeGame/CellTest.java:59:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cell2' (lines '59'-'67').
+src/lifeGame/CellTest.java:59:	LocalVariableCouldBeFinal: Local variable 'cell2' could be declared final
+src/lifeGame/CellTest.java:59:	LocalVariableCouldBeFinal: Local variable 'cell2' could be declared final
+src/lifeGame/CellTest.java:60:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/lifeGame/CellTest.java:60:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/lifeGame/CellTest.java:60:	ShortVariable: Avoid variables with short names like b
+src/lifeGame/CellTest.java:60:	ShortVariable: Avoid variables with short names like b
+src/lifeGame/CellTest.java:64:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:64:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:70:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:70:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:73:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:73:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:78:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:78:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:81:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:81:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:87:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:87:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cell1' (lines '88'-'94').
+src/lifeGame/CellTest.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cell1' (lines '88'-'94').
+src/lifeGame/CellTest.java:88:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/lifeGame/CellTest.java:88:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/lifeGame/CellTest.java:91:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:91:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:97:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:97:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:98:	ControlStatementBraces: This statement should have braces
+src/lifeGame/CellTest.java:98:	ControlStatementBraces: This statement should have braces
+src/lifeGame/CellTest.java:99:	ControlStatementBraces: This statement should have braces
+src/lifeGame/CellTest.java:99:	ControlStatementBraces: This statement should have braces
+src/lifeGame/CellTest.java:100:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:100:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifeGame/CellTest.java:104:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/CellTest.java:104:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:1:	PackageCase: Package name contains upper case characters
+src/lifeGame/GUI.java:1:	PackageCase: Package name contains upper case characters
+src/lifeGame/GUI.java:7:	CommentRequired: Class comments are required
+src/lifeGame/GUI.java:7:	CommentRequired: Class comments are required
+src/lifeGame/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/lifeGame/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/lifeGame/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 4 (Highest = 21).
+src/lifeGame/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 4 (Highest = 21).
+src/lifeGame/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/lifeGame/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/lifeGame/GUI.java:8:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:8:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:9:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:9:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:10:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:10:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:11:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:11:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:12:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:12:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:13:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:13:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:13:	ShortVariable: Avoid variables with short names like ok
+src/lifeGame/GUI.java:13:	ShortVariable: Avoid variables with short names like ok
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:14:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:14:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:15:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:15:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:16:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:16:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:17:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:17:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:17:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/lifeGame/GUI.java:17:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/lifeGame/GUI.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifeGame/GUI.java:18:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:18:	CommentRequired: Field comments are required
+src/lifeGame/GUI.java:20:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:20:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:20:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/lifeGame/GUI.java:20:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/lifeGame/GUI.java:25:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:25:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:29:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:29:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:29:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/lifeGame/GUI.java:29:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+src/lifeGame/GUI.java:37:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/lifeGame/GUI.java:37:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+src/lifeGame/GUI.java:41:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:41:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:41:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/lifeGame/GUI.java:41:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/lifeGame/GUI.java:41:	NcssCount: The method 'initGUI()' has a NCSS line count of 72.
+src/lifeGame/GUI.java:41:	NcssCount: The method 'initGUI()' has a NCSS line count of 72.
+src/lifeGame/GUI.java:72:	ControlStatementBraces: This statement should have braces
+src/lifeGame/GUI.java:72:	ControlStatementBraces: This statement should have braces
+src/lifeGame/GUI.java:78:	ControlStatementBraces: This statement should have braces
+src/lifeGame/GUI.java:78:	ControlStatementBraces: This statement should have braces
+src/lifeGame/GUI.java:84:	AddEmptyString: Do not add empty strings
+src/lifeGame/GUI.java:84:	AddEmptyString: Do not add empty strings
+src/lifeGame/GUI.java:117:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:117:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:117:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/lifeGame/GUI.java:117:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/lifeGame/GUI.java:117:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/lifeGame/GUI.java:117:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/lifeGame/GUI.java:117:	ShortVariable: Avoid variables with short names like e
+src/lifeGame/GUI.java:117:	ShortVariable: Avoid variables with short names like e
+src/lifeGame/GUI.java:118:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/lifeGame/GUI.java:118:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/lifeGame/GUI.java:136:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:136:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:136:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/lifeGame/GUI.java:136:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/lifeGame/GUI.java:138:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/lifeGame/GUI.java:138:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/lifeGame/GUI.java:141:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:141:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:141:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/lifeGame/GUI.java:141:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/lifeGame/GUI.java:141:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/lifeGame/GUI.java:141:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/lifeGame/GUI.java:141:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 21.
+src/lifeGame/GUI.java:141:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 21.
+src/lifeGame/GUI.java:141:	ShortVariable: Avoid variables with short names like e
+src/lifeGame/GUI.java:141:	ShortVariable: Avoid variables with short names like e
+src/lifeGame/GUI.java:151:	AddEmptyString: Do not add empty strings
+src/lifeGame/GUI.java:151:	AddEmptyString: Do not add empty strings
+src/lifeGame/GUI.java:153:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:153:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:158:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:158:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:163:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:163:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:166:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/lifeGame/GUI.java:166:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/lifeGame/GUI.java:167:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:167:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:167:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/lifeGame/GUI.java:167:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/lifeGame/GUI.java:168:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:168:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:169:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:169:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:173:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/lifeGame/GUI.java:173:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/lifeGame/GUI.java:175:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:175:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:176:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:176:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:177:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:177:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:178:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:178:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:179:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:179:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:183:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:183:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:187:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:187:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:189:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:189:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:190:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:190:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/lifeGame/GUI.java:190:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:190:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:199:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:199:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:202:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:202:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/lifeGame/GUI.java:205:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/lifeGame/GUI.java:205:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/lifeGame/GUI.java:230:	AddEmptyString: Do not add empty strings
+src/lifeGame/GUI.java:230:	AddEmptyString: Do not add empty strings
+src/lifeGame/GUI.java:233:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:233:	CommentRequired: Public method and constructor comments are required
+src/lifeGame/GUI.java:234:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+src/lifeGame/GUI.java:234:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+src/lifeGame/GUI.java:234:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/lifeGame/GUI.java:234:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/lifeGame/GUI.java:237:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifeGame/GUI.java:237:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
